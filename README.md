@@ -1,6 +1,6 @@
 We are [R-Ladies Paris](https://www.meetup.com/rladies-paris/), a network of R practitioners in Paris. We are a local chapter of a global open source community promoting gender inclusivity among R practitioners and learners, [R-Ladies Global](https://rladies.org/).
 
-Our goals are to provide a supportive and encouraging network for R users who identify as female and to promote learning and collaboration in the R community. We are open to anyone interested in programming in R, from experts to novices.
+Our goals are to provide a supportive and encouraging network for for women and self- identified minorities and to promote learning and collaboration in the R community. We are open to anyone interested in programming in R, from experts to novices.
 
 Anyone worldwide with an interest in R is encouraged to participate!
 
@@ -14,4 +14,10 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| September 8, 2022 | 7pm - 8:30pm | Keeping it Tidy: Using the Tidyverse to Efficiently Organize, Transform, and Visualize Data | Workshop | [Meghan Hall](https://meghan.rbind.io/) | [Mouna Belaid](https://mounabelaid.netlify.app/) | Zoom | To provide |
+| September 30, 2022 | 6pm - 7pm | Bringing your plots to cloud nine with {Plotnine} | Workshop [[link](https://www.meetup.com/rladies-paris/events/288227304)] | [Tanya Shapiro](https://www.tanyashapiro.com/) |  | Zoom | To be provided |
+
+## Past events
+
+| Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
+|---|---|---|---|---|---|---|---|
+| September 30, 2022 | 6pm - 7pm | Bringing your plots to cloud nine with {Plotnine} | Workshop [[link](https://www.meetup.com/rladies-paris/events/288227304)] | [Tanya Shapiro](https://www.tanyashapiro.com/) |  | Zoom | To be provided |
