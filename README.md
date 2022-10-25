@@ -14,10 +14,11 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| September 30, 2022 | 6pm - 7pm | Bringing your plots to cloud nine with {Plotnine} | Workshop [[link](https://www.meetup.com/rladies-paris/events/288227304)] | [Tanya Shapiro](https://www.tanyashapiro.com/) |  | Zoom | To be provided |
 
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| September 8, 2022 | 7pm - 8:30pm | Keeping it Tidy: Using the Tidyverse to Efficiently Organize, Transform, and Visualize Data | Workshop [[link](https://www.meetup.com/rladies-paris/events/287856868/)] | [Meghan Hall](https://meghan.rbind.io/) | [Mouna Belaid](belaid.netlify.app)  | Zoom | [Recording video](https://youtu.be/Qqpcj-Q5fcc), [Website course](https://meghan.quarto.pub/keeping-it-tidy/) |
+| October 13, 2022 | 7pm - 8:30pm | Introduction to {ggplot2} in R | Workshop [[link](https://www.meetup.com/rladies-paris/events/288964586/)] | [Tanya Shapiro](https://www.tanyashapiro.com/) | [Mouna Belaid](https://mounabelaid.netlify.app/) | Zoom | [Recording video](https://youtu.be/EnNWkF9Jtj4), [Workshop website](https://tashapiro.github.io/horror-movies/code/ggplot-workshop) |
+| September 30, 2022 | 6pm - 7pm | Bringing your plots to cloud nine with {Plotnine} | Workshop [[link](https://www.meetup.com/rladies-paris/events/288227304/)] | [Tanya Shapiro](https://www.tanyashapiro.com/) | R-Ladies Cologne, PyLadies Munich, PyLadies Tunis, and R-Ladies Paris teams | Zoom | [Recording video](https://www.youtube.com/watch?v=JUrRYYFDWJc), [GitHub repository](https://github.com/rladiescologne/plotnine) |
+| September 8, 2022 | 7pm - 8:30pm | Keeping it Tidy: Using the Tidyverse to Efficiently Organize, Transform, and Visualize Data | Workshop [[link](https://www.meetup.com/rladies-paris/events/287856868/)] | [Meghan Hall](https://meghan.rbind.io/) | [Mouna Belaid](https://mounabelaid.netlify.app/) | Zoom | [Recording video](https://youtu.be/Qqpcj-Q5fcc), [Website course](https://meghan.quarto.pub/keeping-it-tidy/) |
