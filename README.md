@@ -13,7 +13,7 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 ## Upcoming events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
-|---|---|---|---|---|---|---|---|
+|October 3, 2023|7pm - 8 pm | Watch Party::PositConf(2023) |Webinar| Mouna Belaid, Rita Giordano| R-Ladies Stasbourg and R-Ladies Paris teams|Zoom|--|
 
 ## Past events
 
