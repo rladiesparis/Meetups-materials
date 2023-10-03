@@ -15,6 +15,8 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
 |October 3, 2023 | 7pm - 8 pm | Watch Party::PositConf(2023) | Webinar | Mouna Belaid and Rita Giordano| R-Ladies Stasbourg and R-Ladies Paris teams|Zoom|--|
+|October 19, 2023| 7pm - 8:30pm | Progresser grâce aux données : Retour d'expériences en science des données et en consultation scientifique |Face-to-face and distance event| Kim Antunez & Anna Doizy| R-Ladies Paris teams|Zoom & datacraft local|--|
+
 
 ## Past events
 
