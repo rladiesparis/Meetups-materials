@@ -1,6 +1,6 @@
 We are [R-Ladies Paris](https://www.meetup.com/rladies-paris/), a network of R practitioners in Paris. We are a local chapter of a global open source community promoting gender inclusivity among R practitioners and learners, [R-Ladies Global](https://rladies.org/).
 
-Our goals are to provide a supportive and encouraging network for for women and self- identified minorities and to promote learning and collaboration in the R community. We are open to anyone interested in programming in R, from experts to novices.
+Our goals are to provide a supportive and encouraging network for women and self- identified minorities and to promote learning and collaboration in the R community. We are open to anyone interested in programming in R, from experts to novices.
 
 Anyone worldwide with an interest in R is encouraged to participate!
 
@@ -14,21 +14,20 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-|November 14, 2023| 12:30pm - 13pm |{glitter} makes SPARQL : an R package for exploring and collecting semantic web data |Meetup |Lise Vaudor| R-Ladies Paris teams|Zoom|--|
-
+|November 14, 2023| 12:30pm - 13pm |{glitter} makes SPARQL : an R package for exploring and collecting semantic web data |Webinar [[link](https://www.meetup.com/rladies-paris/events/297203083/)] | [Lise Vaudor](https://perso.ens-lyon.fr/lise.vaudor/page-d-exemple/)| R-Ladies Paris team|Zoom|--|
 
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-|October 24, 2023| 7pm - 8:30pm |PyLadies Paris & R-Ladies Paris Aferwork meetup | In-person | R-Ladies & PyLadies teams and participants| R-Ladies & Pyladies Paris teams|"We are Brewers" bar (11ème arrondissement) |[Recording video](https://youtu.be/6qKE9NkN-Uc?si=ggo0NXFOqbT4vtCT)|
-|October 19, 2023| 7pm - 8:30pm | Progresser grâce aux données : Retour d'expériences en science des données et en consultation scientifique| Hybrid | Kim Antunez & Anna Doizy| R-Ladies Paris teams|Zoom & datacraft local|[Recording video](https://youtu.be/6qKE9NkN-Uc)|
-|October 3, 2023 | 7pm - 8 pm | Watch Party::PositConf(2023) | Webinar [[link](https://www.meetup.com/rladies-paris/events/296164032/)] | Mouna Belaid & Rita Giordano| R-Ladies Stasbourg and R-Ladies Paris teams|Zoom|[Recording video](https://www.youtube.com/watch?v=2ygKXyEjXFY&t=642s)|
+|October 24, 2023| 7pm - 8:30pm |PyLadies Paris & R-Ladies Paris Aferwork meetup | Afterwork [[link](https://www.meetup.com/rladies-paris/events/296739584/)] | R-Ladies & PyLadies teams and participants| R-Ladies & PyLadies Paris teams|"We are Brewers" bar (11ème arrondissement) | -- |
+|October 19, 2023| 7pm - 8:30pm | Progresser grâce aux données : Retour d'expériences en science des données et en consultation scientifique | Talks [[link](https://www.meetup.com/rladies-paris/events/296623138/)]| [Kim Antunez](https://www.linkedin.com/in/kantunez/) & [Anna Doizy](https://www.doana-r.com/)| R-Ladies Paris teams|Zoom & [datacraft](https://datacraft.paris/) local | [Recording video](https://youtu.be/6qKE9NkN-Uc)|
+|October 3, 2023 | 7pm - 8 pm | Watch Party for [posit::conf(2023)]() | Webinar [[link](https://www.meetup.com/rladies-paris/events/296164032/)] | Mouna Belaid & Rita Giordano| R-Ladies Stasbourg and R-Ladies Paris teams|Zoom|[Recording video](https://www.youtube.com/watch?v=2ygKXyEjXFY&t=642s)|
 | September 8, 2023 | 4pm - 5pm | Generative AI for R Programmers | Webinar [[link](https://www.meetup.com/rladies-paris/events/294207284/)] | [Melissa Van Bussel](https://www.youtube.com/@ggnot2) | R-Ladies Lagos and R-Ladies Paris teams | CMX |[Recording video](https://youtu.be/jvxHBjSvOwQ)
 | May 6, 2023 | 10am - 12pm | R Package Development Workflow | Workshop [[link](https://www.meetup.com/rladies-paris/events/293202681/)] | [Emi Tanaka](https://emitanaka.org/) | R-Ladies Lagos and R-Ladies Paris teams| CMX | [Recording video](https://youtu.be/Qkq5MM-8gp4), [Code](https://rpubs.com/emitanaka/rladies-lagos-paris-2023) |
 | May 2, 2023 | 2pm - 3pm | Dernière Exploration du {tidyverse} avec le Package {purrr} | Workshop [[link](https://www.meetup.com/rladies-paris/events/293018819/)] | [Marie Vaugoyeau](https://mvaugoyeau.netlify.com/) | [Marie Vaugoyeau](https://mvaugoyeau.netlify.com/) | [Twitch](https://www.twitch.tv/marievaugoyeau/videos) | [Recording video](https://youtu.be/TofQt2f8iNM) |
 | February 17, 2023 | 7pm - 8pm | AutoML in R & Python Using H2O | Webinar [[link](https://www.meetup.com/rladies-paris/events/291511126/)] | [Erin LeDell](https://github.com/ledell) | R-Ladies Cologne, PyLadies Paris, and R-Ladies Paris teams | Zoom | [Recording video](https://youtu.be/Qd6Re5_I-Ps), [Slides](https://github.com/h2oai/h2o-meetups/blob/master/2023_02_17_RPyLadies_CologneParis_H2OAutoML/h2o_automl_rpyladies_cologne_paris_feb2023.pdf) |
-| February 9, 2023 | 7pm - 8pm | Comment Programmer sous R avec la Voix ? | Webinar [[link](https://www.meetup.com/rladies-paris/events/291227924/)] | [Nancy Rebout](https://www.linkedin.com/in/nancy-rebout-phd-60789763/) | R-Ladies Strasbourg et R-Ladies Paris | Zoom | [Recording video](https://youtube.com/live/uyWpmzhnP-M) |
+| February 9, 2023 | 7pm - 8pm | Comment Programmer sous R avec la Voix ? | Webinar [[link](https://www.meetup.com/rladies-paris/events/291227924/)] | [Nancy Rebout](https://www.linkedin.com/in/nancy-rebout-phd-60789763/) | R-Ladies Strasbourg & R-Ladies Paris | Zoom | [Recording video](https://youtube.com/live/uyWpmzhnP-M) |
 | January 27, 2023 | 7pm - 8pm | Streamline Your Data Science Processes with GitHub Actions and Quarto | Workshop [[link](https://www.meetup.com/rladies-paris/events/290845512/)] | [Angelica Becerra](https://www.linkedin.com/in/angelicambg/) | R-Ladies Cologne, PyLadies Tunis, PyLadies Munich, and R-Ladies Paris teams | Zoom | [Recording video](https://youtu.be/aqTM450K6jE), [GitHub Repository](https://github.com/angelicambg/GHA_r_py_q) |
 | January 12, 2023 | 7pm - 8pm | Quarto/RMarkdown - What's Different? | Webinar [[link](https://www.meetup.com/rladies-paris/events/290237743/)] | [Ted Laderas](https://laderast.github.io/) | [Mouna Belaid](https://mounabelaid.netlify.app/) | Zoom | [Recording video](https://youtu.be/i6rajzMkpD0), [Slides](https://laderast.github.io/qmd_rmd/#/title-slide) |
 | December 15, 2022 | 6:30pm - 8pm | À la Découverte du Machine Learning avec R | Conférence [[link](https://www.meetup.com/rladies-paris/events/290048739/)] | [Natacha Njongwa Yepnga](https://www.linkedin.com/in/natacha-njongwa-yepnga/) | Machine Learning Paris and R-Ladies Paris teams | [Matrice Association](https://matrice.io/) | [Recording video](https://youtu.be/GhJkOogX8xc) |
