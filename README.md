@@ -14,13 +14,15 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-|October 19, 2023| 7pm - 8:30pm | Progresser grâce aux données : Retour d'expériences en science des données et en consultation scientifique |Face-to-face and distance event| Kim Antunez & Anna Doizy| R-Ladies Paris teams|Zoom & datacraft local|--|
+|November 14, 2023| 12:30pm - 13pm |{glitter} makes SPARQL : an R package for exploring and collecting semantic web data |Meetup |Lise Vaudor| R-Ladies Paris teams|Zoom|--|
 
 
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
+|October 24, 2023| 7pm - 8:30pm |PyLadies Paris & R-Ladies Paris Aferwork meetup | In-person | R-Ladies & PyLadies teams and participants| R-Ladies & Pyladies Paris teams|"We are Brewers" bar (11ème arrondissement) |[Recording video](https://youtu.be/6qKE9NkN-Uc?si=ggo0NXFOqbT4vtCT)|
+|October 19, 2023| 7pm - 8:30pm | Progresser grâce aux données : Retour d'expériences en science des données et en consultation scientifique| Hybrid | Kim Antunez & Anna Doizy| R-Ladies Paris teams|Zoom & datacraft local|[Recording video](https://youtu.be/6qKE9NkN-Uc)|
 |October 3, 2023 | 7pm - 8 pm | Watch Party::PositConf(2023) | Webinar [[link](https://www.meetup.com/rladies-paris/events/296164032/)] | Mouna Belaid & Rita Giordano| R-Ladies Stasbourg and R-Ladies Paris teams|Zoom|[Recording video](https://www.youtube.com/watch?v=2ygKXyEjXFY&t=642s)|
 | September 8, 2023 | 4pm - 5pm | Generative AI for R Programmers | Webinar [[link](https://www.meetup.com/rladies-paris/events/294207284/)] | [Melissa Van Bussel](https://www.youtube.com/@ggnot2) | R-Ladies Lagos and R-Ladies Paris teams | CMX |[Recording video](https://youtu.be/jvxHBjSvOwQ)
 | May 6, 2023 | 10am - 12pm | R Package Development Workflow | Workshop [[link](https://www.meetup.com/rladies-paris/events/293202681/)] | [Emi Tanaka](https://emitanaka.org/) | R-Ladies Lagos and R-Ladies Paris teams| CMX | [Recording video](https://youtu.be/Qkq5MM-8gp4), [Code](https://rpubs.com/emitanaka/rladies-lagos-paris-2023) |
