@@ -14,13 +14,13 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-|December 05, 2023| 19pm - 20pm |Introduction to Reproducible Publications with RStudio ?!! |Webinar [[link](https://www.meetup.com/rladies-paris/events)] | [Torin White](https://www.linkedin.com/in/torinwhite3100/)| R-Ladies Paris team|Zoom|--|
+|January 16, 2024| 6pm - 7:30pm |Introduction to Reproducible Publications with RStudio |Webinar | [Torin White](https://www.linkedin.com/in/torinwhite3100/)| R-Ladies Paris team|Zoom| To be provided|
 
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-|November 14, 2023| 12:30pm - 13pm |{glitter} makes SPARQL : an R package for exploring and collecting semantic web data |Webinar [[link](https://www.meetup.com/rladies-paris/events/297203083/)] | [Lise Vaudor](https://perso.ens-lyon.fr/lise.vaudor/page-d-exemple/)| R-Ladies Paris team|Zoom|[Recording video](https://youtu.be/95XGWhHzX0E)|
+|November 14, 2023| 12:30pm - 1pm |{glitter} makes SPARQL : an R package for exploring and collecting semantic web data |Webinar [[link](https://www.meetup.com/rladies-paris/events/297203083/)] | [Lise Vaudor](https://perso.ens-lyon.fr/lise.vaudor/page-d-exemple/)| R-Ladies Paris team|Zoom|[Recording video](https://youtu.be/95XGWhHzX0E)|
 |October 24, 2023| 7pm - 8:30pm |PyLadies Paris & R-Ladies Paris Aferwork meetup | Afterwork [[link](https://www.meetup.com/rladies-paris/events/296739584/)] | R-Ladies & PyLadies teams and participants| R-Ladies & PyLadies Paris teams|"We are Brewers" bar (11ème arrondissement) | -- |
 |October 19, 2023| 7pm - 8:30pm | Progresser grâce aux données : Retour d'expériences en science des données et en consultation scientifique | Talks [[link](https://www.meetup.com/rladies-paris/events/296623138/)]| [Kim Antunez](https://www.linkedin.com/in/kantunez/) & [Anna Doizy](https://www.doana-r.com/)| R-Ladies Paris teams|Zoom & [datacraft](https://datacraft.paris/) local | [Recording video](https://youtu.be/6qKE9NkN-Uc)|
 |October 3, 2023 | 7pm - 8 pm | Watch Party for [posit::conf(2023)]() | Webinar [[link](https://www.meetup.com/rladies-paris/events/296164032/)] | Mouna Belaid & Rita Giordano| R-Ladies Stasbourg and R-Ladies Paris teams|Zoom|[Recording video](https://www.youtube.com/watch?v=2ygKXyEjXFY&t=642s)|
