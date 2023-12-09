@@ -14,7 +14,7 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-|January 16, 2024| 6pm - 7:30pm |Introduction to Reproducible Publications with RStudio |Webinar | [Torin White](https://www.linkedin.com/in/torinwhite3100/)| R-Ladies Paris team|Zoom| To be provided|
+|January 16, 2024| 6pm - 7:30pm |Introduction to Reproducible Publications with RStudio | Workshop | [Torin White](https://www.linkedin.com/in/torinwhite3100/)| R-Ladies Paris team|Zoom| To be provided|
 
 ## Past events
 
