@@ -14,7 +14,7 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-|April 11, 2024| 7pm - 8pm |Get to Know the Epidemiologist R Handbook – the R Code Reference Manual| Webinar| [Paulina Jedynak](https://www.linkedin.com/in/pau-jedynak-phd/)| R-Ladies Paris team | Zoom | -- |
+|April 11, 2024| 7pm - 8pm |Get to Know the Epidemiologist R Handbook – the R Code Reference Manual| Webinar [[link](https://www.meetup.com/rladies-paris/events/300211960/)] | [Paulina Jedynak](https://www.linkedin.com/in/pau-jedynak-phd/)| R-Ladies Paris team | Zoom | -- |
 
 ## Past events
 
