@@ -15,6 +15,8 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
 |April 11, 2024| 7pm - 8pm |Get to Know the Epidemiologist R Handbook – the R Code Reference Manual| Webinar [[link](https://www.meetup.com/rladies-paris/events/300211960/)] | [Paulina Jedynak](https://www.linkedin.com/in/pau-jedynak-phd/)| R-Ladies Paris team | Zoom | -- |
+|April 24, 2024| 7pm - 8pm |Embracing open-source software to implement precision medicine | Webinar [[link](https://www.meetup.com/rladies-paris/events/300024707/)] | [Guillaume Desachy](https://www.linkedin.com/in/guillaume-desachy/)| R-Ladies Paris team | Zoom | -- |
+|April 29, 2024| 7pm - 8:30pm |Venez nous rencontrer à Paris pour une soirée d’apprentissage et d’échange| Talks [[link](https://www.meetup.com/rladies-paris/events/300044860/)] | [María Paula Caldas](https://www.linkedin.com/in/mpaulacaldas/) & [Julie Aubert]()| R-Ladies Paris team | Datta Craft Local | -- |
 
 ## Past events
 
