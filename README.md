@@ -12,15 +12,14 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 
 ## Upcoming events
 
-| Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
-|---|---|---|---|---|---|---|---|
-|April 24, 2024| 7pm - 8pm |Embracing open-source software to implement precision medicine | Webinar [[link](https://www.meetup.com/rladies-paris/events/300024707/)] | [Guillaume Desachy](https://www.linkedin.com/in/guillaume-desachy/)| R-Ladies Paris team | Zoom | -- |
-|April 29, 2024| 7pm - 8:30pm |Venez nous rencontrer à Paris pour une soirée d’apprentissage et d’échange| Talks [[link](https://www.meetup.com/rladies-paris/events/300044860/)] | [María Paula Caldas](https://www.linkedin.com/in/mpaulacaldas/) & [Julie Aubert](https://julieaubert.github.io/myprowebsite/)| R-Ladies Paris team | [datacraft](https://datacraft.paris/) | -- |
+We will keep posted about our upcoming events.
 
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
+|April 29, 2024| 7pm - 8:30pm |Venez nous rencontrer à Paris pour une soirée d’apprentissage et d’échange| Talks [[link](https://www.meetup.com/rladies-paris/events/300044860/)] | [María Paula Caldas](https://www.linkedin.com/in/mpaulacaldas/) & [Julie Aubert](https://julieaubert.github.io/myprowebsite/)| R-Ladies Paris team | [datacraft](https://datacraft.paris/) | [Recording video](https://youtu.be/wEVKoPhB25g) |
+|April 24, 2024| 7pm - 8pm |Embracing open-source software to implement precision medicine | Webinar [[link](https://www.meetup.com/rladies-paris/events/300024707/)] | [Guillaume Desachy](https://www.linkedin.com/in/guillaume-desachy/)| R-Ladies Paris team | Zoom | [Recording video](https://youtu.be/Mhdjn5EB1OE) |
 |April 11, 2024| 7pm - 8pm |Get to Know the Epidemiologist R Handbook – the R Code Reference Manual| Webinar [[link](https://www.meetup.com/rladies-paris/events/300211960/)] | [Paulina Jedynak](https://www.linkedin.com/in/pau-jedynak-phd/)| R-Ladies Paris team | Zoom | [Recording video](https://youtu.be/GSPLnXbuKXk) |
 |January 16, 2024| 6pm - 7:30pm |Introduction to Reproducible Publications with RStudio | Workshop [[link](https://www.meetup.com/rladies-paris/events/298391513/)] | [Torin White](https://www.linkedin.com/in/torinwhite/)| R-Ladies Rome and R-Ladies Paris teams | Zoom | [Recording video](https://youtu.be/CDwVQOpt_FA?si=ZyR2MZRJoP-Mt-1o), [GitHub Repository](https://github.com/UCSBCarpentry/Quarto-Project-Example) |
 |November 14, 2023| 12:30pm - 1pm | {glitter} makes SPARQL : an R package for exploring and collecting semantic web data | Webinar [[link](https://www.meetup.com/rladies-paris/events/297203083/)] | [Lise Vaudor](https://perso.ens-lyon.fr/lise.vaudor/page-d-exemple/)| R-Ladies Paris team|Zoom|[Recording video](https://youtu.be/95XGWhHzX0E)|
